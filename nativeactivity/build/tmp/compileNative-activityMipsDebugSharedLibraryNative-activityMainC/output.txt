@@ -1,0 +1,4 @@
+See file:///C:/AndroidProject/NativeActivity/nativeactivity/build/tmp/compileNative-activityMipsDebugSharedLibraryNative-activityMainC/output.txt for all output for compileNative-activityMipsDebugSharedLibraryNative-activityMainC.
+compiling android_native_app_glue.c successful.
+
+Finished compileNative-activityMipsDebugSharedLibraryNative-activityMainC, see full log file:///C:/AndroidProject/NativeActivity/nativeactivity/build/tmp/compileNative-activityMipsDebugSharedLibraryNative-activityMainC/output.txt.

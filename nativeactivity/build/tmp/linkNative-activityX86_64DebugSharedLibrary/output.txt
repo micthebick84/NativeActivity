@@ -1,0 +1,5 @@
+See file:///C:/AndroidProject/NativeActivity/nativeactivity/build/tmp/linkNative-activityX86_64DebugSharedLibrary/output.txt for all output for linkNative-activityX86_64DebugSharedLibrary.
+linking libnative-activity.so successful.
+x86_64-linux-android-g++.exe: warning: C:\AndroidProject\NativeActivity\nativeactivity\build\intermediates\objectFiles\x86_64DebugSharedLibrary\native-activityMainC\bu681o7ev3ly5dslziidrspmv\android_native_app_glue.o: linker input file unused because linking not done
+
+Finished linkNative-activityX86_64DebugSharedLibrary, see full log file:///C:/AndroidProject/NativeActivity/nativeactivity/build/tmp/linkNative-activityX86_64DebugSharedLibrary/output.txt.

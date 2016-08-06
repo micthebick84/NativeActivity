@@ -1,0 +1,5 @@
+See file:///C:/AndroidProject/NativeActivity/nativeactivity/build/tmp/linkNative-activityMips64DebugSharedLibrary/output.txt for all output for linkNative-activityMips64DebugSharedLibrary.
+linking libnative-activity.so successful.
+mips64el-linux-android-g++.exe: warning: C:\AndroidProject\NativeActivity\nativeactivity\build\intermediates\objectFiles\mips64DebugSharedLibrary\native-activityMainC\bu681o7ev3ly5dslziidrspmv\android_native_app_glue.o: linker input file unused because linking not done
+
+Finished linkNative-activityMips64DebugSharedLibrary, see full log file:///C:/AndroidProject/NativeActivity/nativeactivity/build/tmp/linkNative-activityMips64DebugSharedLibrary/output.txt.
